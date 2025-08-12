@@ -63,8 +63,11 @@ This dashboard transforms static numbers into **dynamic, actionable insights**, 
 ---
 
 > **Developed by:**
+> 
 > 🧑‍💻 Rudra Prashant Bhagat
+> 
 > 🏫 Deogiri Institute of Engineering and Management Studies
+> 
 > 📚 Dept. of CSE (AIML)
 
 ---
